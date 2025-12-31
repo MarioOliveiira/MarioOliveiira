@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="left">👩🏻‍💻 Mario Oliveira</h1>
 
-<!--
-**MarioOliveiira/MarioOliveiira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="left">Sobre mim</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left"><br>- Me chamo Mario Carneiro Oliveira, tenho 20 anos e sou natural de Conceição do Coité.<br>- Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCSAL (2° semestre).<br>- Estudando Java<br></p>
+
+###
+
+### 🤖 Linguagens e Tecnologias
+
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+/>
+
+<br/>
+<br/>
+
+###
