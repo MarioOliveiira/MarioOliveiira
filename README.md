@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"><br>- Me chamo Mario Carneiro Oliveira, tenho 20 anos e sou natural de Conceição do Coité.<br>- Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCSAL (2° semestre).<br>- Estudando Java<br></p>
+<p align="left"><br>- Me chamo Mario Carneiro Oliveira, tenho 20 anos e sou natural de Conceição do Coité.<br>- Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCSAL (2° semestre).<br>- Estudando Java com foco em backend<br></p>
 
 ###
 
