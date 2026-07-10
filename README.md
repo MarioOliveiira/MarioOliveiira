@@ -1,28 +1,22 @@
-<h1 align="left">👩🏻‍💻 Mario Oliveira</h1>
 
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left"><br>- Me chamo Mario Carneiro Oliveira, tenho 20 anos.<br>- Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCSAL (2° semestre).<br>- Estudando Java com objetivo de trabalhar na área de desenvolvimento fullstack<br></p>
-
-###
-
-### 🤖 Linguagens e Tecnologias
+# Mario Carneiro Oliveira
 
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-/>
 
-<br/>
-<br/>
 
-###
+## 🚀 Sobre Mim
+
+Estudante de Análise e Desenvolvimento de Sistemas, na UCSAL (3° semeste). 
+
+Venho buscando aprimorar meus conhecimentos com foco em me tornar um desenvolvedor Fullstack. Inicialmete estou estudando Backend para futuramente iniciar os estudos em Frontend.
+
+## 🤖 Linguagens e Tecnologias
+
+- Java (Intermediário)
+- SQL (Básico)
+- Git (Básico)
+## 🔗 Contate-me
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-c-oliveira/) 
+
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contatomario0912@gmail.com)
+
